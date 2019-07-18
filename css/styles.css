@@ -15,6 +15,9 @@
   text-align: center;
   color:Black;
 }
+.services{
+  background-image:url('../image/second.jpg');
+}
 @media only screen and (min-width:40cm)
 .my-text{
   height:500px;
