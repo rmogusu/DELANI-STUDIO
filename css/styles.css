@@ -1,0 +1,14 @@
+body{
+  background-image:url('../image/first.jpg');
+  background-size:cover;
+}
+.text{
+  text-align: center;
+  color:white;
+  display:block;
+  margin-top:20%
+}
+@media only screen and (min-width:40cm)
+.my-text{
+  height:500px;
+}
