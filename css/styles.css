@@ -1,12 +1,17 @@
-body{
+.container-full{
   background-image:url('../image/first.jpg');
   background-size:cover;
 }
 .text{
   text-align: center;
   color:white;
+  padding:100px 200px 300px 200px;
+  height: 200px;
   display:block;
   margin-top:20%
+}
+.About-Us{
+  text-align: center;
 }
 @media only screen and (min-width:40cm)
 .my-text{
