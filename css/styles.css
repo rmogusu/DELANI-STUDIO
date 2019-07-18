@@ -18,6 +18,11 @@
 .services{
   background-image:url('../image/second.jpg');
 }
+.info{
+  text-align: center;
+  color:white;
+  top:200%
+}
 @media only screen and (min-width:40cm)
 .my-text{
   height:500px;
