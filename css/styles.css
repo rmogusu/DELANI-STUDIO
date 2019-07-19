@@ -73,3 +73,28 @@ margin-right:20px;
   background-image:url('../image/contacts/contact.jpg');
   background-size:cover;
 }
+#information{
+  text-align:center;
+  padding-top:50px;
+  color:white;
+
+}
+#name{
+margin-bottom:100px;
+margin-top: 100px;
+}
+#message{
+  margin-bottom:130px;
+}
+.my-icons{
+  text-align:center;
+  margin-left:5px;
+  padding-left:5px;
+  margin-top:40px;
+  margin-bottom:40px;
+
+}
+#footer{
+  text-align: center;
+  margin-bottom:5px;
+}
