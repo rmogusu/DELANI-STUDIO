@@ -40,8 +40,8 @@
 .info{
   text-align: center;
   color:white;
-  /* top:200%
-  height:700px; */
+  padding-bottom:70px;
+  padding-top:70px;
 }
 .description{
   text-align: center;
