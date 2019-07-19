@@ -64,10 +64,12 @@ body{
 #myportfolio{
   text-align:center;
 }
+.contaner-fluid{
+text-align: center;
+margin-left:20px;
+margin-right:20px;
+}
 .contacts{
   background-image:url('../image/contacts/contact.jpg');
   background-size:cover;
 }
-/* @media only screen and (min-width:40cm)
-.my-text{
-  height:500px; */
