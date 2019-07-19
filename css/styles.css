@@ -1,35 +1,54 @@
 .container-full{
-  background-image:url('../image/first.jpg');
+  background-image:url('../image/background/first.jpg');
   background-size:cover;
-  padding-top:20%;
 }
-.text{
-  text-align: center;
+#logo{
+  margin-left:600px;
+  padding-top:200px;
+}
+#mouse{
+  margin-left:620px;
+  padding-bottom:20px;
+}
+#header1{
+  text-align:center;
   color:white;
-  padding:100px 200px 300px 200px;
-  height: 200px;
+  padding:0px;
   display: block;
-  margin-top:20px;
+}
+#header2{
+    text-align:center;
+    color:white;
+    padding-bottom:50px;
+    /* margin-bottom:30px; */
+    display: block;
+}
+#paragraph{
+  text-align:center;
+  color:white;
+  padding-bottom:20px;
+  /* margin-bottom:30px; */
+  display: block;
 }
 .About-Us{
   text-align: center;
   color:Black;
 }
 .services{
-  background-image:url('../image/second.jpg');
+  background-image:url('../image/background/second.jpg');
 }
-#info{
+.info{
   text-align: center;
   color:white;
-  top:200%
-  height:700px;
+  /* top:200%
+  height:700px; */
 }
 .description{
   text-align: center;
   color:black;
 }
 .row{
-  image:center;
+  /* image:center; */
 }
 @media only screen and (min-width:40cm)
 .my-text{
