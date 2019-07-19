@@ -5,30 +5,28 @@
 #logo{
   margin-left:600px;
   padding-top:200px;
-}
-#mouse{
-  margin-left:620px;
-  padding-bottom:20px;
+  padding-bottom:45px;
 }
 #header1{
   text-align:center;
   color:white;
-  padding:0px;
-  display: block;
+  padding-bottom:30px;
+
 }
 #header2{
     text-align:center;
     color:white;
-    padding-bottom:50px;
-    /* margin-bottom:30px; */
+    padding-bottom:1px;
     display: block;
 }
 #paragraph{
   text-align:center;
   color:white;
+  padding-bottom:150px;
+}
+#mouse{
+  margin-left:620px;
   padding-bottom:20px;
-  /* margin-bottom:30px; */
-  display: block;
 }
 .About-Us{
   text-align: center;
