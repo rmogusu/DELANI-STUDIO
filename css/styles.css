@@ -31,6 +31,8 @@
 .About-Us{
   text-align: center;
   color:Black;
+  padding-bottom:70px;
+  padding-top:70px;
 }
 .services{
   background-image:url('../image/background/second.jpg');
