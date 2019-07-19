@@ -1,4 +1,8 @@
-.container-full{
+body{
+  margin:0px;
+  overflow-x:hidden;
+}
+#container-full{
   background-image:url('../image/background/first.jpg');
   background-size:cover;
 }
@@ -36,6 +40,7 @@
 }
 .services{
   background-image:url('../image/background/second.jpg');
+  background-size:cover;
 }
 .info{
   text-align: center;
@@ -53,9 +58,16 @@
   padding-bottom:40px;
 }
 .info1{
+  padding-bottom:70px;
+  padding-top:70px;
+}
+#myportfolio{
   text-align:center;
 }
-@media only screen and (min-width:40cm)
+.row{
+
+}
+/* @media only screen and (min-width:40cm)
 .my-text{
-  height:500px;
+  height:500px; */
 }
