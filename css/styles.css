@@ -2,7 +2,7 @@ body{
   margin:0px;
   overflow-x:hidden;
 }
-#container-full{
+.container-full{
   background-image:url('../image/background/first.jpg');
   background-size:cover;
 }
@@ -64,10 +64,10 @@ body{
 #myportfolio{
   text-align:center;
 }
-.row{
-
+.contacts{
+  background-image:url('../image/contacts/contact.jpg');
+  background-size:cover;
 }
 /* @media only screen and (min-width:40cm)
 .my-text{
   height:500px; */
-}
