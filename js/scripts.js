@@ -78,8 +78,10 @@ $('.port8').mouseover(function () {
     $('.text8').hide();
 });
 
-
-
-
-
 });
+function contact(form){
+        var name = document.forms["form1"]["yourname"].value;
+            var email = document.forms["form1"]["youremail"].value;
+            var message = document.forms["form1"]["message"].value;
+            alert("Hello " + name + "," + "  Thank you for reaching out to us.feel free anytime. ");
+              };

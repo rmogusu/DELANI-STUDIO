@@ -111,7 +111,7 @@ body {
   margin-left:0px;
 }
 .inputs{
-  margin-bottom:20px;
+  margin-bottom:10px;
 }
 .form-control{
   background-color:#66000000;
@@ -120,7 +120,11 @@ input::placeholder{
   color:#ffffff;
 }
 .first{
-  margin:0 5px 0 0;
+  margin:0 10px 0 0;
+}
+  .transparency{
+    margin-left:30px;
+    margin-right:30px;
 }
 .footer{
   text-align: center;
