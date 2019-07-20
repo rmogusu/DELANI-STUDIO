@@ -103,15 +103,15 @@ body {
   justify-content: center;
 }
 .my-icons {
-  margin-top: 40px;
-  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom:10px;
 }
 
 .social-ico {
-  margin-left: 200px;
+  margin-left:0px;
 }
 .inputs{
-  margin-bottom: 20px;
+  margin-bottom:20px;
 }
 .form-control{
   background-color:#66000000;
@@ -122,28 +122,26 @@ input::placeholder{
 .first{
   margin:0 5px 0 0;
 }
-h6{
-  text-align:center;
+.footer{
+  text-align: center;
 }
 
 
 
-
 .text1 {
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
-    border-radius: 15px;
+    border-radius:10%;
     z-index: 1;
     opacity: 0.5;
     position: absolute;
     top: 1em;
     display:none;
-    text-align: center;
 }
 .text2 {
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -153,8 +151,8 @@ h6{
     display:none;
 }
 .text3 {
-    width: 300px;
-    height: 250px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -164,8 +162,8 @@ h6{
     display:none;
 }
 .text4{
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -175,8 +173,8 @@ h6{
     display:none;
 }
 .text5 {
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -186,8 +184,8 @@ h6{
     display:none;
 }
 .text6 {
-    width: 160px;
-    height: 160px;
+    width: 360px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -197,8 +195,8 @@ h6{
     display:none;
 }
 .text7 {
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
@@ -208,8 +206,8 @@ h6{
     display:none;
 }
 .text8 {
-    width: 160px;
-    height: 160px;
+    width: 350px;
+    height: 260px;
     background-color: #ffffff;
     border-radius: 15px;
     z-index: 1;
