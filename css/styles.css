@@ -1,100 +1,128 @@
-body{
-  margin:0px;
-  overflow-x:hidden;
+body {
+  margin: 0px;
+  overflow-x: hidden;
 }
-.container-full{
-  background-image:url('../image/background/first.jpg');
-  background-size:cover;
-}
-#logo{
-  margin-left:600px;
-  padding-top:200px;
-  padding-bottom:45px;
-}
-#header1{
-  text-align:center;
-  color:white;
-  padding-bottom:30px;
 
+.container-full {
+  background-image: url('../image/background/first.jpg');
+  background-size: cover;
 }
-#header2{
-    text-align:center;
-    color:white;
-    padding-bottom:1px;
-    display: block;
-}
-#paragraph{
-  text-align:center;
-  color:white;
-  padding-bottom:150px;
-}
-#mouse{
-  margin-left:620px;
-  padding-bottom:20px;
-}
-.About-Us{
-  text-align: center;
-  color:Black;
-  padding-bottom:70px;
-  padding-top:70px;
-}
-.services{
-  background-image:url('../image/background/second.jpg');
-  background-size:cover;
-}
-.info{
-  text-align: center;
-  color:white;
-  padding-bottom:70px;
-  padding-top:70px;
-}
-.description{
-  text-align: center;
-  color:black;
-  padding-bottom:70px;
-  padding-top:70px;
-}
-#mytopic{
-  padding-bottom:40px;
-}
-.info1{
-  padding-bottom:70px;
-  padding-top:70px;
-}
-#myportfolio{
-  text-align:center;
-}
-.contaner-fluid{
-text-align: center;
-margin-left:20px;
-margin-right:20px;
-}
-.contacts{
-  background-image:url('../image/contacts/contact.jpg');
-  background-size:cover;
-}
-#information{
-  text-align:center;
-  padding-top:50px;
-  color:white;
 
+#logo {
+  margin-left: 600px;
+  padding-top: 200px;
+  padding-bottom: 45px;
 }
-#name{
-margin-bottom:100px;
-margin-top: 100px;
-}
-#message{
-  margin-bottom:130px;
-}
-.my-icons{
-  text-align:center;
-  margin-left:5px;
-  padding-left:5px;
-  margin-top:40px;
-  margin-bottom:40px;
 
-}
-#footer{
+#header1 {
   text-align: center;
-  margin-bottom:5px;
+  color: white;
+  padding-bottom: 30px;
+}
+
+#header2 {
+  text-align: center;
+  color: white;
+  padding-bottom: 1px;
+  display: block;
+}
+
+#paragraph {
+  text-align: center;
+  color: white;
+  padding-bottom: 150px;
+}
+
+#mouse {
+  margin-left: 620px;
+  padding-bottom: 20px;
+}
+
+.About-Us {
+  text-align: center;
+  color: Black;
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+
+.services {
+  background-image: url('../image/background/second.jpg');
+  background-size: cover;
+}
+
+.info {
+  text-align: center;
+  color: white;
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+
+.description {
+  text-align: center;
+  color: black;
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+
+#info3 {
+  display: none;
+}
+#info4{
+  display: none;
+}
+#info5 {
+  display: none;
+}
+.clickable:hover {
+  text-decoration: box;
+}
+
+.info1 {
+  padding-bottom: 70px;
+  padding-top: 70px;
+}
+
+#myportfolio {
+  text-align: center;
+}
+
+.contact-us {
+  background-image: url('../image/contacts/contact.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+.contact-us h1{
+  padding-top:20px;
+}
+
+.form-inline {
+  text-align: center;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+}
+.my-icons {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.social-ico {
+  margin-left: 200px;
+}
+.inputs{
+  margin-bottom: 20px;
+}
+.form-control{
+  background-color:#66000000;
+}
+input::placeholder{
+  color:#ffffff;
+}
+.first{
+  margin:0 5px 0 0;
+}
+h6{
+  text-align:center;
 }
