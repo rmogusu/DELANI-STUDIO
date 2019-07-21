@@ -1,6 +1,6 @@
 # DELANI STUDIO:
-#### this is Delani studio website was established by me it offers services as per client details feel free to contact us anytime we shall recieve your 
-informatiom immediately.
+#### this is Delani studio website was established by me it offers services as per client details feel free to contact us anytime we shall recieve your information immediately 
+
 #Author.
 #### Rose Mogusu.
 ## Description
@@ -11,11 +11,11 @@ you will be able to get more deatais about us,you can also contact us at any tim
 * Make sure you are in terminal
 * cd Documents
 * cd Delani-Studio
-*atom .
+* atom .
 ## Technologies Used
 * HTML 
-*CSS
-*JAVASCRIPT
+* CSS
+* JAVASCRIPT
 ### License
-*MIT licence
-Copyright (c) {2019}
+* MIT licence
+Copyright (c) 2019
