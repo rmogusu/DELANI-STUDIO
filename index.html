@@ -168,10 +168,10 @@
 
       <div class="contact-us">
         <h1 class="text-white">CONTACT US</h1>
+        <form id ="myforms" name="form1" onsubmit="return contact()">
         <div class="col-md-12">
           <div class="row inputs">
             <div class="col-md-2"></div>
-            <form id ="myforms" name="form1" onsubmit="return contact()">
             <input type="text" class="col-md-4 form-control first" placeholder="Name..." name="yourname">
             <input type="text" class="col-md-4 form-control first1" placeholder="Email..." name="youremail">
             <div class="col-md-2"></div>
@@ -179,9 +179,13 @@
           <div class="row">
             <div class="col-md-2"></div>
             <textarea type="text" class="col-md-8 form-control" rows="8" placeholder="Your message here..." name="message"></textarea>
-            <button type="submit" id="transparency" class="btn btn-outline-light btn-lg btn-block">Submit</button>
                   <div class="col-md-2"></div>
                 </div>
+                <div class="row">
+                <div class="col-md-2"></div>
+                <button type="submit"  class ="col-md-8" id="transparency" class="btn btn-outline-light btn-lg btn-block">Submit</button>
+                <div class="col-md-2"></div>
+              </div>
                 </form>
               </div>
             </div>
