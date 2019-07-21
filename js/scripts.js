@@ -86,11 +86,4 @@ function contact(form){
             var email = document.forms["form1"]["youremail"].value;
             var message = document.forms["form1"]["message"].value;
             alert("Hello " + name + "," + "  Thank you for reaching out to us.feel free anytime. ");
-              };
-
-{
-        var name = document.forms["none"]["yourname"].value;
-        var email = document.forms["none"]["youremail"].value;
-        var message = document.forms["none"]["message"].value;
-        alert("Invalid " + "please fill forms.");
-    };
+          };
