@@ -11,7 +11,7 @@ body {
 #logo {
   margin-left: 600px;
   padding-top: 100px;
-  padding-bottom: 45px;
+  padding-bottom:45px;
 }
 
 #header1 {
@@ -23,7 +23,6 @@ body {
 #header2 {
   text-align: center;
   color: white;
-  padding-bottom: 1px;
   display: block;
 }
 
