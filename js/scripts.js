@@ -1,19 +1,25 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
-    $("#info3").slideUp();
-    $("#info3").toggle();
-  });
+  $(".design1").click(function() {
+  $("#clickable").toggle();
+  $("#info3").toggle();
+});
 
-  $(".clickable1").click(function() {
-    $("#info4").slideUp();
+$(".dev").click(function() {
+    $("#clickable1").toggle();
     $("#info4").toggle();
   });
 
-  $(".clickable2").click(function() {
-    $("#info5").slideUp();
+$(".mgnt").click(function() {
+    $("#clickable2").toggle();
     $("#info5").toggle();
   });
-    });
+});
+
+  // $(".clickable2").click(function() {
+  //   $("#info5").slideUp();
+  //   $("#info5").toggle();
+  // });
+  //   });
 
 $(document).ready(function() {
   $('.port1').mouseover(function() {
