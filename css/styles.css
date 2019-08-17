@@ -13,6 +13,9 @@ body {
   padding-top: 100px;
   padding-bottom:45px;
 }
+#text{
+  color:white;
+}
 
 #header1 {
   text-align: center;
