@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)http://pizzapeel.com/welcome/ -->
+<html lang="en-US" class="wf-loading Chrome Chrome75 cssanimations csstransitions no-touchevents js_active  vc_desktop  vc_transform  vc_transform"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="format-detection" content="telephone=no">
+<title>Welcome – The Pizza Peel</title>
+<script type="text/javascript">var ajaxurl = "http://pizzapeel.com/wp-admin/admin-ajax.php"</script><style id="theme-options-inline-styles" type="text/css">body { background-color:#fff; } .mk-header { background-color:#ffea00; } .mk-header-bg { background-color:#fff;background-image:url(http://162.144.151.74/~pizzapee/wp-content/uploads/2017/06/sliderbg02.jpg);background-position:center center; } .mk-classic-nav-bg { background-color:rgba(0,0,0,0.39); } .master-holder-bg { background-color:#fff; } #mk-footer { background-color:#000000; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#fff; } .page-title { font-size:20px; color:; text-transform:uppercase; font-weight:400; letter-spacing:2px; } .page-subtitle { font-size:14px; line-height:100%; color:; font-size:14px; text-transform:none; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:153px; } @font-face { font-family:'star'; src:url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('http://pizzapeel.com/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; }.centerText { text-align:center !important;}</style><style id="critical-path-css" type="text/css">body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;top:50%;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;max-height:calc(50% - 20px);opacity:1;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;top:50%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0 auto;max-height:calc(50% - 20px);opacity:1;position:relative}.ball-pulse>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes ball-pulse{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block;width:5px;height:50px;border-radius:2px;margin:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}@keyframes line-scale{0%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}100%{-webkit-transform:scaley(1);transform:scaley(1)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;margin:2px;position:absolute;left:-30px;top:0;opacity:0;margin:0;width:50px;height:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2){-webkit-animation-delay:-.2s;animation-delay:-.2s}.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><link rel="dns-prefetch" href="http://maxcdn.bootstrapcdn.com/">
+<link rel="dns-prefetch" href="http://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="The Pizza Peel » Feed" href="http://pizzapeel.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Pizza Peel » Comments Feed" href="http://pizzapeel.com/comments/feed/">
+
+<link rel="shortcut icon" href="http://pizzapeel.com/wp-content/uploads/2019/01/favicon.jpg">
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "http://pizzapeel.com/wp-admin/admin-ajax.php";PHP.wp_p_id = "21";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "http://pizzapeel.com/wp-content/themes/jupiter/assets/images",
+mk_theme_js_path = "http://pizzapeel.com/wp-content/themes/jupiter/assets/js",
+mk_theme_dir = "http://pizzapeel.com/wp-content/themes/jupiter",
+mk_captcha_placeholder = "Enter Captcha",
+mk_captcha_invalid_txt = "Invalid. Try again.",
+mk_captcha_correct_txt = "Captcha correct.",
+mk_responsive_nav_width = 1140,
+mk_vertical_header_back = "Back",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1140,
+mk_ajax_search_option = "disable",
+mk_preloader_bg_color = "#fff",
+mk_accent_color = "#f97352",
+mk_go_to_top =  "true",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#f97352",
+mk_preloader_logo = "";
+var mk_header_parallax = false,
+mk_banner_parallax = false,
+mk_footer_parallax = false,
+mk_body_parallax = false,
+mk_no_more_posts = "No More Posts",
+mk_typekit_id   = "",
+mk_google_fonts = [],
+mk_global_lazyload = true;
+</script>
+<link rel="stylesheet" id="cff-css" href="./bg_files/cff-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="sb-font-awesome-css" href="./bg_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./bg_files/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="theme-styles-css" href="./bg_files/full-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="./bg_files/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-options-css" href="./bg_files/theme-options-production.css" type="text/css" media="all">
+<script type="text/javascript" src="./bg_files/jquery.js"></script>
+<script type="text/javascript" src="./bg_files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./bg_files/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="./bg_files/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="./bg_files/webfontloader.js"></script>
+<script type="text/javascript">
+			WebFontConfig = {
+				timeout: 2000
+			}
+
+			if ( mk_typekit_id.length > 0 ) {
+				WebFontConfig.typekit = {
+					id: mk_typekit_id
+				}
+			}
+
+			if ( mk_google_fonts.length > 0 ) {
+				WebFontConfig.google = {
+					families:  mk_google_fonts
+				}
+			}
+
+			WebFont.load( WebFontConfig );
+		
+</script>
+<link rel="https://api.w.org/" href="http://pizzapeel.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pizzapeel.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pizzapeel.com/wp-includes/wlwmanifest.xml"> 
+<link rel="canonical" href="http://pizzapeel.com/welcome/">
+<link rel="shortlink" href="http://pizzapeel.com/?p=21">
+<link rel="alternate" type="application/json+oembed" href="http://pizzapeel.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpizzapeel.com%2Fwelcome%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://pizzapeel.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpizzapeel.com%2Fwelcome%2F&amp;format=xml">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//pizzapeel.com/?wordfence_lh=1&hid=29386AA2B0B835937854BB7DA96D43BE');
+</script><script> var isTest = false; </script>
+<style id="js-media-query-css">.mk-event-countdown-ul:media(max-width:750px) li{width:90%;display:block;margin:0 auto 15px}.mk-process-steps:media(max-width:960px) ul:before{display:none!important}.mk-process-steps:media(max-width:960px) li{margin-bottom:30px!important;width:100%!important;text-align:center}.mk-event-countdown-ul.query_max-width_750px li {width:90%;display:block;margin:0 auto 15px}.mk-process-steps.query_max-width_960px ul:before {display:none!important}.mk-process-steps.query_max-width_960px li {margin-bottom:30px!important;width:100%!important;text-align:center}</style><meta itemprop="author" content=""><meta itemprop="datePublished" content="June 14, 2017"><meta itemprop="dateModified" content="October 10, 2017"><meta itemprop="publisher" content="The Pizza Peel">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://pizzapeel.com/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><meta name="generator" content="Powered by Slider Revolution 5.4.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<meta name="generator" content="Jupiter 5.9.4">
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1507648121135{padding-top: 5px !important;background-color: #ffea00 !important;}.vc_custom_1507561752634{padding-top: 100% !important;background-image: url(http://162.144.151.74/~pizzapee/wp-content/uploads/2017/06/001-webimages.jpg?id=68) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1507648116070{padding-top: 5px !important;}.vc_custom_1507648137333{padding-top: 5px !important;}.vc_custom_1507648053035{padding-top: 4% !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css">@keyframes resizeanim { from { opacity: 0; } to { opacity: 0; } } .resize-triggers { animation: 1ms resizeanim; visibility: hidden; opacity: 0; } .resize-triggers, .resize-triggers > div, .contract-trigger:before { content: " "; display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; } .resize-triggers > div { background: #eee; overflow: auto; } .contract-trigger:before { width: 200%; height: 200%; }</style><style type="text/css">.fancybox-margin{margin-right:15px;}</style><script type="text/javascript" async="" src="./bg_files/saved_resource"></script></head>
+
+<body class="page-template-default page page-id-21 wpb-js-composer js-comp-ver-5.1.1 vc_responsive" itemscope="itemscope" itemtype="https://schema.org/WebPage" data-adminbar="">
+
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container">
+
+				 
+    <header data-height="117" data-sticky-height="55" data-responsive-height="90" data-transparent-skin="light" data-header-style="1" data-sticky-style="fixed" data-sticky-offset="header" id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-true menu-hover-5 sticky-style-fixed mk-background-stretch boxed-header  a-sticky" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+                    <div class="mk-header-holder">
+                
+<div class="mk-header-toolbar">
+
+			<div class="mk-grid header-grid">
+	
+		<div class="mk-toolbar-holder">
+
+		
+	<span class="header-toolbar-contact">
+		<svg class="mk-svg-icon" data-name="mk-moon-phone-3" data-cacheid="icon-5d3ac8fdcf602" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M457.153 103.648c53.267 30.284 54.847 62.709 54.849 85.349v3.397c0 5.182-4.469 9.418-9.928 9.418h-120.146c-5.459 0-9.928-4.236-9.928-9.418v-11.453c0-28.605-27.355-33.175-42.449-35.605-15.096-2.426-52.617-4.777-73.48-4.777h-.14300000000000002c-20.862 0-58.387 2.35-73.48 4.777-15.093 2.427-42.449 6.998-42.449 35.605v11.453c0 5.182-4.469 9.418-9.926 9.418h-120.146c-5.457 0-9.926-4.236-9.926-9.418v-3.397c0-22.64 1.58-55.065 54.847-85.349 63.35-36.01 153.929-39.648 201.08-39.648l.077.078.066-.078c47.152 0 137.732 3.634 201.082 39.648zm-201.152 88.352c-28.374 0-87.443 2.126-117.456 38.519-30.022 36.383-105.09 217.481-38.147 217.481h311.201c66.945 0-8.125-181.098-38.137-217.481-30.018-36.393-89.1-38.519-117.461-38.519zm-.001 192c-35.346 0-64-28.653-64-64s28.654-64 64-64c35.347 0 64 28.653 64 64s-28.653 64-64 64z"></path></svg>		<a href="tel:309-246-7400">309-246-7400</a>
+	</span>
+
+
+    <span class="header-toolbar-contact">
+    	<svg class="mk-svg-icon" data-name="mk-moon-envelop" data-cacheid="icon-5d3ac8fdcfae2" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M480 64h-448c-17.6 0-32 14.4-32 32v320c0 17.6 14.4 32 32 32h448c17.6 0 32-14.4 32-32v-320c0-17.6-14.4-32-32-32zm-32 64v23l-192 113.143-192-113.143v-23h384zm-384 256v-177.286l192 113.143 192-113.143v177.286h-384z"></path></svg>    	<a href="mailto:info@pizzapeel.com">info@pizzapeel.com</a>
+    </span>
+
+<div class="mk-header-social toolbar-section"><ul><li><a class="facebook-hover " target="_blank" href="https://www.facebook.com/ThePizzaPeel"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-facebook" data-cacheid="icon-5d3ac8fdcfed8" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm64.057 159.299h-49.041c-7.42 0-14.918 7.452-14.918 12.99v19.487h63.723c-2.081 28.41-6.407 64.679-6.407 64.679h-57.566v159.545h-63.929v-159.545h-32.756v-64.474h32.756v-33.53c0-8.098-1.706-62.336 70.46-62.336h57.678v63.183z"></path></svg></a></li><li><a class="twitter-hover " target="_blank" href="https://twitter.com/ThePizzaPeel"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-twitter" data-cacheid="icon-5d3ac8fdd010f" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256-6.4c-141.385 0-256 114.615-256 256s114.615 256 256 256 256-114.615 256-256-114.615-256-256-256zm146.24 258.654c-31.365 127.03-241.727 180.909-338.503 49.042 37.069 35.371 101.619 38.47 142.554-3.819-24.006 3.51-41.47-20.021-11.978-32.755-26.523 2.923-41.27-11.201-47.317-23.174 6.218-6.511 13.079-9.531 26.344-10.407-29.04-6.851-39.751-21.057-43.046-38.284 8.066-1.921 18.149-3.578 23.656-2.836-25.431-13.295-34.274-33.291-32.875-48.326 45.438 16.866 74.396 30.414 98.613 43.411 8.626 4.591 18.252 12.888 29.107 23.393 13.835-36.534 30.915-74.19 60.169-92.874-.493 4.236-2.758 8.179-5.764 11.406 8.298-7.535 19.072-12.719 30.027-14.216-1.257 8.22-13.105 12.847-20.249 15.539 5.414-1.688 34.209-14.531 37.348-7.216 3.705 8.328-19.867 12.147-23.872 13.593-2.985 1.004-5.992 2.105-8.936 3.299 36.492-3.634 71.317 26.456 81.489 63.809.719 2.687 1.44 5.672 2.1 8.801 13.341 4.978 37.521-.231 45.313-5.023-5.63 13.315-20.268 23.121-41.865 24.912 10.407 4.324 30.018 6.691 43.544 4.396-8.563 9.193-22.379 17.527-45.859 17.329z"></path></svg></a></li><li><a class="instagram-hover " target="_blank" href="https://www.instagram.com/PizzaPeel/"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-instagram" data-cacheid="icon-5d3ac8fdd0372" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 297.6c27.2 0 48-20.8 48-48s-20.8-48-48-48-48 20.8-48 48 20.8 48 48 48zm80-48c0 44.8-35.2 80-80 80s-80-35.2-80-80c0-8 0-12.8 3.2-19.2h-19.2v107.2c0 4.8 3.2 9.6 9.6 9.6h174.4c4.8 0 9.6-3.2 9.6-9.6v-107.2h-19.2c1.6 6.4 1.6 11.2 1.6 19.2zm-22.4-48h28.8c4.8 0 9.6-3.2 9.6-9.6v-28.8c0-4.8-3.2-9.6-9.6-9.6h-28.8c-4.8 0-9.6 3.2-9.6 9.6v28.8c0 6.4 3.2 9.6 9.6 9.6zm-57.6-208c-140.8 0-256 115.2-256 256s115.2 256 256 256 256-115.2 256-256-115.2-256-256-256zm128 355.2c0 16-12.8 28.8-28.8 28.8h-198.4c-9.6 0-28.8-12.8-28.8-28.8v-198.4c0-16 12.8-28.8 28.8-28.8h196.8c16 0 28.8 12.8 28.8 28.8v198.4z"></path></svg></a></li></ul><div class="clearboth"></div></div>
+		</div>
+
+			</div>
+	
+</div>
+                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                                            <div class="mk-toolbar-resposnive-icon"><svg class="mk-svg-icon" data-name="mk-icon-chevron-down" data-cacheid="icon-5d3ac8fdd06c7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"></path></svg></div>
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main-nav-menu" class="main-navigation-ul dropdownJavascript"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/welcome/">Welcome</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/menu/">Menu</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/online-ordering/">Online Ordering</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/location/">Location</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/news/">News</a></li>
+</ul></nav>                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>        <div class=" header-logo fit-logo-img add-header-height logo-is-responsive logo-has-sticky">
+
+	    <a href="http://pizzapeel.com/" title="The Pizza Peel">
+	    
+			             <img class="mk-desktop-logo dark-logo" title="Pizza and Sandwiches in Lacon, Illinois" alt="Pizza and Sandwiches in Lacon, Illinois" src="./bg_files/logolarger.png">
+			    
+			    			             <img class="mk-desktop-logo light-logo" title="Pizza and Sandwiches in Lacon, Illinois" alt="Pizza and Sandwiches in Lacon, Illinois" src="./bg_files/logolarger.png">
+			    			    
+			    			             <img class="mk-resposnive-logo" title="Pizza and Sandwiches in Lacon, Illinois" alt="Pizza and Sandwiches in Lacon, Illinois" src="./bg_files/logolarger.png">
+			    			    
+			    			             <img class="mk-sticky-logo" title="Pizza and Sandwiches in Lacon, Illinois" alt="Pizza and Sandwiches in Lacon, Illinois" src="./bg_files/logolarger.png">
+			    	    </a>
+    </div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap" style="max-height: 468px;">
+
+	<nav class="menu-main-nav-menu-container"><ul id="menu-main-nav-menu-1" class="mk-responsive-nav"><li id="responsive-menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/welcome/">Welcome</a></li>
+<li id="responsive-menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/menu/">Menu</a></li>
+<li id="responsive-menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/online-ordering/">Online Ordering</a></li>
+<li id="responsive-menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/location/">Location</a></li>
+<li id="responsive-menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="http://pizzapeel.com/news/">News</a></li>
+</ul></nav>
+		
+
+</div>
+        
+            </div>
+        
+        <div class="mk-header-padding-wrapper"></div>
+        <section id="mk-page-introduce" class="intro-left"><div class="mk-grid"><h1 class="page-title ">Welcome</h1><div class="clearboth"></div></div></section>        
+    </header>
+
+				<div id="theme-page" class="master-holder  clearfix" itemscope="itemscope" itemtype="https://schema.org/Blog">
+
+						<div class="master-holder-bg-holder">
+				<div id="theme-page-bg" class="master-holder-bg js-el"></div>
+			</div>
+
+			<div class="mk-main-wrapper-holder">
+
+				<div id="mk-page-id-21" class="theme-page-wrapper mk-main-wrapper mk-grid full-layout  ">
+					  <div class="theme-content " itemprop="mainEntityOfPage">
+							
+<div class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row  mk-in-viewport">
+		
+			
+<div style="" class="vc_col-sm-3 vc_hidden-md vc_hidden-sm vc_hidden-xs wpb_column column_container vc_custom_1507561752634  _ height-full">
+	</div>
+
+<div style="" class="vc_col-sm-9 wpb_column column_container  _ height-full">
+	<h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading">What is a Peel?</h2>
+<div id="text-block-2" class="mk-text-block   ">
+
+	
+	<p>Welcome to The Pizza Peel! I’m sure you’re thinking, just what is a Peel? Basically, a peel functions as a safe way for us to remove your pizza from our hot oven! Historically, the tool has been known as a baker’s shovel, baker’s paddle or baker’s peel. A two-thousand-year-old sculpted tomb in Rome shows a baker using a peel to remove food (most likely bread) from a brick oven. This tool has been keeping burns to a minimum for over 2000 years! Peels can be made of wood or metal. The one we use has an aluminum peel and a wooden handle. They can vary from inches to feet in length!</p>
+
+	<div class="clearboth"></div>
+</div>
+
+
+<div class="wpb_row vc_inner vc_row vc_row-fluid    attched-false   ">
+		
+		<div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading">What are we good at?</h2>
+<div id="text-block-3" class="mk-text-block   ">
+
+	
+	<p>Pizza! If you crave a great pizza, you’ve found the place! We hand craft our dough daily, allowing it to cure in our cooler for three days before using it to make our fantastic hand tossed pizza. We also offer a delicious thin crust (as well as gluten free crust)! All our veggies are cut fresh daily and we always use the best toppings we can find. We make calzones to die for and a couple awesome salads too! We offer dine in (with banquet room available for groups up to 45), carry out, and limited delivery to Lacon &amp; Sparland. Be sure to check out our SPOTM (Specialty Pizza Of The Month) for unique pizzas that may not be on our regular menu!</p>
+
+	<div class="clearboth"></div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="650" height="916" src="./bg_files/002-welcomeimage.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://pizzapeel.com/wp-content/uploads/2017/06/002-welcomeimage.jpg 650w, http://pizzapeel.com/wp-content/uploads/2017/06/002-welcomeimage-213x300.jpg 213w" sizes="(max-width: 650px) 100vw, 650px" itemprop="image"></div>
+		</figure>
+	</div>
+</div></div></div>		
+</div>
+
+<div class="wpb_row vc_inner vc_row vc_row-fluid    attched-false   ">
+		
+		<div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="650" height="916" src="./bg_files/003-welcomeimage02.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://pizzapeel.com/wp-content/uploads/2017/06/003-welcomeimage02.jpg 650w, http://pizzapeel.com/wp-content/uploads/2017/06/003-welcomeimage02-213x300.jpg 213w" sizes="(max-width: 650px) 100vw, 650px" itemprop="image"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading">Our History:</h2>
+<div id="text-block-4" class="mk-text-block   ">
+
+	
+	<p>We opened The Pizza Peel February 9th, 2009…and the rest, as they say, is history!</p>
+<p>Owners Travis &amp; Wendy have been in the pizza industry for over 20 years. How did they end up in Lacon? They had an opportunity to move into Travis’ Great-grandparents’ 105-year-old farm. With 6 kids, a love of the Mid-West, and a knack for making great pizza…it makes perfect sense! The Pizza Peel is located in the old Legion Hall on 5th Street (St. Rt. 17). The entire lower level has been remodeled and renovated into a quaint, comfortable and inviting dining experience.</p>
+
+	<div class="clearboth"></div>
+</div>
+</div></div></div>		
+</div><h2 style="text-align: left;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading">A note from Travis:</h2>
+<div id="text-block-5" class="mk-text-block   ">
+
+	
+	<p>I was born in Peoria and lived in Pekin as a child (I spent every summer on my Great-grandparent’s farm). We moved to Colorado when I was 13. For 20 years I lived in Colorado. There I met my wife, Wendy and we had four of our six children. In 2008, we moved 1000 miles to just outside Sparland, Il. and began building The Pizza Peel.</p>
+<p>My first experience in the pizza industry came in 1996 as I took on the job of Prep Manager (read: dough boy) at a local pizza place in Greeley, Colorado. From there I worked my way up: delivery driver, pizza maker, shift manager, Assistant manager, General Manager and my last position as Operations Director. At the end of my stint in Colorado I directly supervised two high volume franchise locations. I also worked for our corporate office in Denver assisting with new franchisee development and operations.</p>
+<p>The draw to move our family was the opportunity to live in the country on our family’s farm. Pizza is the only thing I know, so building The Pizza Peel was a chance to put together all that I had learned in Colorado. Now we are almost 9 years into owning The Peel and I’ve learned so much more! There are two reasons we are successful: our Team, and you, our guest. We would not be here without a talented Team that runs The Peel – and we are here because you, our guest, enjoys the experience – thank you for stopping by and we hope to develop a lasting relationship with you and your family!</p>
+
+	<div class="clearboth"></div>
+</div>
+</div>
+	</div>
+
+	</div></div></div>
+	
+<div class="wpb_row vc_row vc_row-fluid  mk-fullwidth-true  attched-false    vc_custom_1507648121135  js-master-row ">
+			<div class="mk-grid">
+		
+			
+<div style="" class="vc_col-sm-4 wpb_column column_container  _ height-full">
+	<h2 style="color: #000000;text-align: center;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1507648053035">Our Hours</h2></div>
+
+<div style="" class="vc_col-sm-4 wpb_column column_container vc_custom_1507648116070  _ height-full">
+	
+<div id="text-block-6" class="mk-text-block   ">
+
+	
+	<p style="text-align: center;"><strong style="color: #000;">Monday 4pm to 9pm</strong><br>
+<strong style="color: #000;">Friday &amp; Saturday 11am to 10pm</strong></p>
+
+	<div class="clearboth"></div>
+</div>
+</div>
+
+<div style="" class="vc_col-sm-4 wpb_column column_container vc_custom_1507648137333  _ height-full">
+	
+<div id="text-block-7" class="mk-text-block   ">
+
+	
+	<p style="text-align: center;"><strong style="color: #000;">Tuesday through Thursday 11am to 9pm</strong><br>
+<strong style="color: #000;">Closed Sundays</strong></p>
+
+	<div class="clearboth"></div>
+</div>
+</div>
+		
+		</div>	
+	</div>
+
+
+	<div class="mk-main-wrapper-holder">
+		<div class="theme-page-wrapper full-layout mk-grid vc_row-fluid no-padding">
+			<div class="theme-content no-padding">
+
+			
+		<div class="clearboth"></div>
+		                      
+					  <div class="clearboth"></div>
+											  </div>
+								<div class="clearboth"></div>
+
+								</div>
+			</div>
+
+
+				
+		</div>          
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+        <div class="footer-wrapper mk-grid">
+        <div class="mk-padding-wrapper">
+            		<div class="mk-col-1-3"><section id="media_image-2" class="widget widget_media_image"><img width="196" height="168" src="./bg_files/footerlogo.png" class="image wp-image-50  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" itemprop="image"></section><section id="contact_info-2" class="widget widget_contact_info">			<ul itemscope="itemscope" itemtype="https://schema.org/Person">
+				
+						<li><svg class="mk-svg-icon" data-name="mk-icon-home" data-cacheid="icon-5d3ac8fdf3f12" style=" height:16px; width: 14.8571428571px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 1792"><path d="M1408 992v480q0 26-19 45t-45 19h-384v-384h-256v384h-384q-26 0-45-19t-19-45v-480q0-1 .5-3t.5-3l575-474 575 474q1 2 1 6zm223-69l-62 74q-8 9-21 11h-3q-13 0-21-7l-692-577-692 577q-12 8-24 7-13-2-21-11l-62-74q-8-10-7-23.5t11-21.5l719-599q32-26 76-26t76 26l244 204v-195q0-14 9-23t23-9h192q14 0 23 9t9 23v408l219 182q10 8 11 21.5t-7 23.5z"></path></svg><span itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">340 5th St Lacon, IL 61540</span></li>			<li><svg class="mk-svg-icon" data-name="mk-icon-phone" data-cacheid="icon-5d3ac8fe000a8" style=" height:16px; width: 12.5714285714px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1408 1792"><path d="M1408 1240q0 27-10 70.5t-21 68.5q-21 50-122 106-94 51-186 51-27 0-52.5-3.5t-57.5-12.5-47.5-14.5-55.5-20.5-49-18q-98-35-175-83-128-79-264.5-215.5t-215.5-264.5q-48-77-83-175-3-9-18-49t-20.5-55.5-14.5-47.5-12.5-57.5-3.5-52.5q0-92 51-186 56-101 106-122 25-11 68.5-21t70.5-10q14 0 21 3 18 6 53 76 11 19 30 54t35 63.5 31 53.5q3 4 17.5 25t21.5 35.5 7 28.5q0 20-28.5 50t-62 55-62 53-28.5 46q0 9 5 22.5t8.5 20.5 14 24 11.5 19q76 137 174 235t235 174q2 1 19 11.5t24 14 20.5 8.5 22.5 5q18 0 46-28.5t53-62 55-62 50-28.5q14 0 28.5 7t35.5 21.5 25 17.5q25 15 53.5 31t63.5 35 54 30q70 35 76 53 3 7 3 21z"></path></svg><span>309-246-7400</span></li>						
+							<li><svg class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-5d3ac8fe00498" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"></path></svg><span>
+				<a itemprop="email" href="mailto:info@pizzapeel.com">info@pizzapeel.com</a></span></li>
+			
+									</ul>
+		</section><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widgettitle">Main Menu</div>
+<div class="menu-main-nav-menu-container"><ul id="menu-main-nav-menu-2" class="menu">
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-36"><a href="http://pizzapeel.com/welcome/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5d3ac8fe02e7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Welcome</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://pizzapeel.com/menu/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5d3ac8fe02e7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Menu</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://pizzapeel.com/online-ordering/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5d3ac8fe02e7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Online Ordering</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://pizzapeel.com/location/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5d3ac8fe02e7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Location</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://pizzapeel.com/news/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-5d3ac8fe02e7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>News</a></li>
+</ul></div></section></div>
+			<div class="mk-col-1-3"><section id="text-2" class="widget widget_text"><div class="widgettitle">Facebook News</div>			<div class="textwidget"><div class="cff-wrapper">
+<div id="cff" data-char="" class="cff-default-styles">
+<div class="cff-error-msg">
+<p>Unable to display Facebook posts.<br><a href="javascript:void(0);" id="cff-show-error" onclick="cffShowError()">Show error</a><script type="text/javascript">function cffShowError() { document.getElementById("cff-error-reason").style.display = "block"; document.getElementById("cff-show-error").style.display = "none"; }</script></p>
+<div id="cff-error-reason">Error: (#4) Application request limit reached<br>Type: OAuthException<br>Code: 4<br>Please refer to our <a href="https://smashballoon.com/custom-facebook-feed/docs/errors/" target="_blank">Error Message Reference</a>.</div>
+</div>
+</div>
+</div>
+</div>
+		</section></div>
+			<div class="mk-col-1-3"><section id="ninja_forms_widget-2" class="widget widget_ninja_forms_widget"><div class="widgettitle">Contact Us</div><noscript class="ninja-forms-noscript-message">
+    Notice: JavaScript is required for this content.</noscript><div id="nf-form-1-cont" class="nf-form-cont" aria-live="polite" aria-labelledby="nf-form-title-1" aria-describedby="nf-form-errors-1" role="form">
+	<span id="nf-form-title-1" class="nf-form-title">
+		
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"><nf-section>
+	
+</nf-section></div>
+		<div class="nf-form-layout"><form>
+		<div>
+			<div class="nf-before-form-content"><nf-section>
+    <div class="nf-form-fields-required">Fields marked with an <span class="ninja-forms-req-symbol">*</span> are required</div>
+    
+</nf-section></div>
+			<div class="nf-form-content "><nf-fields-wrap><nf-field>
+    <div id="nf-field-1-container" class="nf-field-container textbox-container  label-above ">
+        <div class="nf-before-field"><nf-section>
+    
+</nf-section></div>
+        <div class="nf-field"><div id="nf-field-1-wrap" class="field-wrap textbox-wrap" data-field-id="1">
+		
+		
+		
+	<div class="nf-field-label"><label for="nf-field-1" id="nf-label-field-1" class="">Name <span class="ninja-forms-req-symbol">*</span> </label></div>
+
+		
+		<div class="nf-field-element">
+	<input type="text" value="" class="ninja-forms-field nf-element" id="nf-field-1" name="nf-field-1" aria-invalid="false" aria-describedby="nf-error-1" aria-labelledby="nf-label-field-1" required="">
+</div>
+		
+		
+	</div></div>
+        <div class="nf-after-field"><nf-section>
+    
+    <div class="nf-input-limit"></div>
+    
+    <div id="nf-error-1" class="nf-error-wrap nf-error" role="alert"></div>
+    
+    
+</nf-section></div>
+    </div>
+</nf-field><nf-field>
+    <div id="nf-field-2-container" class="nf-field-container email-container  label-above ">
+        <div class="nf-before-field"><nf-section>
+    
+</nf-section></div>
+        <div class="nf-field"><div id="nf-field-2-wrap" class="field-wrap email-wrap" data-field-id="2">
+		
+		
+		
+	<div class="nf-field-label"><label for="nf-field-2" id="nf-label-field-2" class="">Email <span class="ninja-forms-req-symbol">*</span> </label></div>
+
+		
+		<div class="nf-field-element">
+	<input type="email" value="" class="ninja-forms-field nf-element" id="nf-field-2" name="nf-field-2-email" autocomplete="email" aria-invalid="false" aria-describedby="nf-error-2" aria-labelledby="nf-label-field-2" required="">
+</div>
+		
+		
+	</div></div>
+        <div class="nf-after-field"><nf-section>
+    
+    <div class="nf-input-limit"></div>
+    
+    <div id="nf-error-2" class="nf-error-wrap nf-error" role="alert"></div>
+    
+    
+</nf-section></div>
+    </div>
+</nf-field><nf-field>
+    <div id="nf-field-3-container" class="nf-field-container textarea-container  label-above ">
+        <div class="nf-before-field"><nf-section>
+    
+</nf-section></div>
+        <div class="nf-field"><div id="nf-field-3-wrap" class="field-wrap textarea-wrap" data-field-id="3">
+		
+		
+		
+	<div class="nf-field-label"><label for="nf-field-3" id="nf-label-field-3" class="">Message <span class="ninja-forms-req-symbol">*</span> </label></div>
+
+		
+		<div class="nf-field-element">
+    <textarea id="nf-field-3" name="nf-field-3" aria-invalid="false" aria-describedby="nf-error-3" class="ninja-forms-field nf-element" aria-labelledby="nf-label-field-3" required=""></textarea>
+</div>
+		
+		
+	</div></div>
+        <div class="nf-after-field"><nf-section>
+    
+    <div class="nf-input-limit"></div>
+    
+    <div id="nf-error-3" class="nf-error-wrap nf-error" role="alert"></div>
+    
+    
+</nf-section></div>
+    </div>
+</nf-field><nf-field>
+    <div id="nf-field-4-container" class="nf-field-container submit-container  label-above  textbox-container">
+        <div class="nf-before-field"><nf-section>
+    
+</nf-section></div>
+        <div class="nf-field"><div id="nf-field-4-wrap" class="field-wrap submit-wrap textbox-wrap" data-field-id="4">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">
+	<input id="nf-field-4" class="ninja-forms-field nf-element " type="button" value="Submit">
+</div>
+        <div class="nf-error-wrap"></div>
+    </div></div>
+        <div class="nf-after-field"><nf-section>
+    
+    <div class="nf-input-limit"></div>
+    
+    <div id="nf-error-4" class="nf-error-wrap nf-error" role="alert"></div>
+    
+    
+</nf-section></div>
+    </div>
+</nf-field></nf-fields-wrap></div>
+			<div class="nf-after-form-content"><nf-section>
+    
+    <div id="nf-form-errors-1" class="nf-form-errors" role="alert"><nf-errors></nf-errors></div>
+    <div class="nf-form-hp"><nf-section>
+	<label for="nf-field-hp-1" aria-hidden="true">
+		
+		<input id="nf-field-hp-1" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value="">
+	</label>
+</nf-section></div>
+</nf-section></div>
+		</div>
+	</form></div>
+		<div class="nf-after-form"><nf-section>
+	
+</nf-section></div>
+	</div>
+</div>
+        <!-- TODO: Move to Template File. -->
+        <script>var formDisplay=1;var nfForms=nfForms||[];var form=[];form.id='1';form.settings={"objectType":"Form Setting","editActive":true,"title":"Contact Us","key":"","created_at":"2017-10-10 15:45:15","default_label_pos":"above","conditions":[],"show_title":0,"clear_complete":"1","hide_complete":"1","wrapper_class":"","element_class":"","add_submit":"1","logged_in":"","not_logged_in_msg":"","sub_limit_number":"","sub_limit_msg":"","calculations":[],"formContentData":["name","email","message","submit"],"container_styles_background-color":"","container_styles_border":"","container_styles_border-style":"","container_styles_border-color":"","container_styles_color":"","container_styles_height":"","container_styles_width":"","container_styles_font-size":"","container_styles_margin":"","container_styles_padding":"","container_styles_display":"","container_styles_float":"","container_styles_show_advanced_css":"0","container_styles_advanced":"","title_styles_background-color":"","title_styles_border":"","title_styles_border-style":"","title_styles_border-color":"","title_styles_color":"","title_styles_height":"","title_styles_width":"","title_styles_font-size":"","title_styles_margin":"","title_styles_padding":"","title_styles_display":"","title_styles_float":"","title_styles_show_advanced_css":"0","title_styles_advanced":"","row_styles_background-color":"","row_styles_border":"","row_styles_border-style":"","row_styles_border-color":"","row_styles_color":"","row_styles_height":"","row_styles_width":"","row_styles_font-size":"","row_styles_margin":"","row_styles_padding":"","row_styles_display":"","row_styles_show_advanced_css":"0","row_styles_advanced":"","row-odd_styles_background-color":"","row-odd_styles_border":"","row-odd_styles_border-style":"","row-odd_styles_border-color":"","row-odd_styles_color":"","row-odd_styles_height":"","row-odd_styles_width":"","row-odd_styles_font-size":"","row-odd_styles_margin":"","row-odd_styles_padding":"","row-odd_styles_display":"","row-odd_styles_show_advanced_css":"0","row-odd_styles_advanced":"","success-msg_styles_background-color":"","success-msg_styles_border":"","success-msg_styles_border-style":"","success-msg_styles_border-color":"","success-msg_styles_color":"","success-msg_styles_height":"","success-msg_styles_width":"","success-msg_styles_font-size":"","success-msg_styles_margin":"","success-msg_styles_padding":"","success-msg_styles_display":"","success-msg_styles_show_advanced_css":"0","success-msg_styles_advanced":"","error_msg_styles_background-color":"","error_msg_styles_border":"","error_msg_styles_border-style":"","error_msg_styles_border-color":"","error_msg_styles_color":"","error_msg_styles_height":"","error_msg_styles_width":"","error_msg_styles_font-size":"","error_msg_styles_margin":"","error_msg_styles_padding":"","error_msg_styles_display":"","error_msg_styles_show_advanced_css":"0","error_msg_styles_advanced":"","currency":"","unique_field_error":"A form with this value has already been submitted.","drawerDisabled":false,"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":false,"fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"currency_symbol":"","beforeForm":"","beforeFields":"","afterFields":"","afterForm":""};form.fields=[{"objectType":"Field","objectDomain":"fields","editActive":false,"order":1,"label":"Name","key":"name","type":"textbox","created_at":"2017-10-10 15:45:15","label_pos":"above","required":1,"placeholder":"","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","mask":"","custom_mask":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3277","id":1,"beforeField":"","afterField":"","parentType":"textbox","element_templates":["textbox","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":2,"label":"Email","key":"email","type":"email","created_at":"2017-10-10 15:45:15","label_pos":"above","required":1,"placeholder":"","default":"","wrapper_class":"","element_class":"","container_class":"","admin_label":"","help_text":"","desc_text":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3281","id":2,"beforeField":"","afterField":"","parentType":"email","element_templates":["email","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":3,"label":"Message","key":"message","type":"textarea","created_at":"2017-10-10 15:45:15","label_pos":"above","required":1,"placeholder":"","default":"","wrapper_class":"","element_class":"","container_class":"","input_limit":"","input_limit_type":"characters","input_limit_msg":"Character(s) left","manual_key":"","disable_input":"","admin_label":"","help_text":"","desc_text":"","disable_browser_autocomplete":"","textarea_rte":"","disable_rte_mobile":"","textarea_media":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","cellcid":"c3284","id":3,"beforeField":"","afterField":"","parentType":"textarea","element_templates":["textarea","input"],"old_classname":"","wrap_template":"wrap"},{"objectType":"Field","objectDomain":"fields","editActive":false,"order":5,"label":"Submit","key":"submit","type":"submit","created_at":"2017-10-10 15:45:15","processing_label":"Processing","container_class":"","element_class":"","wrap_styles_background-color":"","wrap_styles_border":"","wrap_styles_border-style":"","wrap_styles_border-color":"","wrap_styles_color":"","wrap_styles_height":"","wrap_styles_width":"","wrap_styles_font-size":"","wrap_styles_margin":"","wrap_styles_padding":"","wrap_styles_display":"","wrap_styles_float":"","wrap_styles_show_advanced_css":0,"wrap_styles_advanced":"","label_styles_background-color":"","label_styles_border":"","label_styles_border-style":"","label_styles_border-color":"","label_styles_color":"","label_styles_height":"","label_styles_width":"","label_styles_font-size":"","label_styles_margin":"","label_styles_padding":"","label_styles_display":"","label_styles_float":"","label_styles_show_advanced_css":0,"label_styles_advanced":"","element_styles_background-color":"","element_styles_border":"","element_styles_border-style":"","element_styles_border-color":"","element_styles_color":"","element_styles_height":"","element_styles_width":"","element_styles_font-size":"","element_styles_margin":"","element_styles_padding":"","element_styles_display":"","element_styles_float":"","element_styles_show_advanced_css":0,"element_styles_advanced":"","submit_element_hover_styles_background-color":"","submit_element_hover_styles_border":"","submit_element_hover_styles_border-style":"","submit_element_hover_styles_border-color":"","submit_element_hover_styles_color":"","submit_element_hover_styles_height":"","submit_element_hover_styles_width":"","submit_element_hover_styles_font-size":"","submit_element_hover_styles_margin":"","submit_element_hover_styles_padding":"","submit_element_hover_styles_display":"","submit_element_hover_styles_float":"","submit_element_hover_styles_show_advanced_css":0,"submit_element_hover_styles_advanced":"","cellcid":"c3287","id":4,"beforeField":"","afterField":"","label_pos":"above","parentType":"textbox","element_templates":["submit","button","input"],"old_classname":"","wrap_template":"wrap-no-label"}];nfForms.push(form);</script>
+        </section></div>
+	            <div class="clearboth"></div>
+        </div>
+    </div>
+        
+<div id="sub-footer">
+	<div class=" mk-grid">
+		
+    	<span class="mk-footer-copyright">Copyright All Rights Reserved 2017</span>
+    		</div>
+	<div class="clearboth"></div>
+</div>
+</section>
+<div class="resize-triggers"><div class="expand-trigger"><div style="width: 1285px; height: 2464px;"></div></div><div class="contract-trigger"></div></div></div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+
+<a href="http://pizzapeel.com/welcome/#top-of-page" class="mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back is-active">
+	<svg class="mk-svg-icon" data-name="mk-icon-chevron-up" data-cacheid="icon-5d3ac8fe65fa8" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"></path></svg></a>
+	<div class="mk-quick-contact-wrapper  js-bottom-corner-btn js-bottom-corner-btn--contact is-active">
+			
+		<a href="http://pizzapeel.com/welcome/#" class="mk-quick-contact-link"><svg class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-5d3ac8fe66493" style=" height:20px; width: 20px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"></path></svg></a>
+		<div id="mk-quick-contact">
+			<div class="mk-quick-contact-title">Contact Us</div>
+			<p>We're not around right now. But you can send us an email and we'll get back to you, asap.</p>
+			<form class="mk-contact-form" method="post" novalidate="novalidate">
+				<input type="text" placeholder="Name*" required="required" id="name" name="name" class="text-input" value="" tabindex="473">
+				<input type="email" data-type="email" required="required" placeholder="Email*" id="email" name="email" class="text-input" value="" tabindex="474">
+				<textarea placeholder="Message*" required="required" id="content" name="content" class="textarea" tabindex="475"></textarea>
+								<input placeholder="Enter Captcha" type="text" data-type="captcha" name="captcha" class="captcha-form text-input full" required="required" autocomplete="off">
+		        <a href="http://pizzapeel.com/welcome/#" class="captcha-change-image">Not readable? Change text.</a>
+	            <span class="captcha-image-holder">
+					<img src="./bg_files/generate-captcha.php" class="captcha-image" alt="captcha txt">
+				</span>
+				<br>
+				
+				<div class="btn-cont">
+                    <button tabindex="476" class="mk-progress-button mk-contact-button accent-bg-color button" data-style="move-up">
+                        <span class="mk-progress-button-content">Send</span>
+                        <span class="mk-progress">
+                            <span class="mk-progress-inner"></span>
+                        </span>
+                        <span class="state-success"><svg class="mk-svg-icon" data-name="mk-moon-checkmark" data-cacheid="icon-5d3ac8fe669c3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M432 64l-240 240-112-112-80 80 192 192 320-320z"></path></svg></span>
+                        <span class="state-error"><svg class="mk-svg-icon" data-name="mk-moon-close" data-cacheid="icon-5d3ac8fe66ea9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M507.331 411.33l-.006-.005-155.322-155.325 155.322-155.325.006-.005c1.672-1.673 2.881-3.627 3.656-5.708 2.123-5.688.912-12.341-3.662-16.915l-73.373-73.373c-4.574-4.573-11.225-5.783-16.914-3.66-2.08.775-4.035 1.984-5.709 3.655l-.004.005-155.324 155.326-155.324-155.325-.005-.005c-1.673-1.671-3.627-2.88-5.707-3.655-5.69-2.124-12.341-.913-16.915 3.66l-73.374 73.374c-4.574 4.574-5.784 11.226-3.661 16.914.776 2.08 1.985 4.036 3.656 5.708l.005.005 155.325 155.324-155.325 155.326-.004.005c-1.671 1.673-2.88 3.627-3.657 5.707-2.124 5.688-.913 12.341 3.661 16.915l73.374 73.373c4.575 4.574 11.226 5.784 16.915 3.661 2.08-.776 4.035-1.985 5.708-3.656l.005-.005 155.324-155.325 155.324 155.325.006.004c1.674 1.672 3.627 2.881 5.707 3.657 5.689 2.123 12.342.913 16.914-3.661l73.373-73.374c4.574-4.574 5.785-11.227 3.662-16.915-.776-2.08-1.985-4.034-3.657-5.707z"></path></svg></span>
+                    </button>
+                </div>
+				<input type="hidden" id="security" name="security" value="29f31f188a"><input type="hidden" name="_wp_http_referer" value="/welcome/">				<input type="hidden" id="sh_id" name="sh_id" value="15"><input type="hidden" id="p_id" name="p_id" value="2342">				<div class="contact-form-message clearfix"></div>  
+			</form>
+			<div class="bottom-arrow"></div>
+		</div>
+	</div></div>
+
+
+
+
+    <style type="text/css"></style><!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'http://pizzapeel.com/wp-content/themes/jupiter/assets/js'
+      };
+    </script><link rel="stylesheet" id="vc_google_fonts_abril_fatfaceregular-css" href="./bg_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./bg_files/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="nf-display-css" href="./bg_files/display-structure.css" type="text/css" media="all">
+<script type="text/javascript" src="./bg_files/cff-scripts.js"></script>
+<script type="text/javascript" src="./bg_files/full-scripts.js"></script>
+<script type="text/javascript" src="./bg_files/wp-embed.min.js"></script>
+<script type="text/javascript" src="./bg_files/js_composer_front.min.js"></script>
+<script type="text/javascript" src="./bg_files/underscore.min.js"></script>
+<script type="text/javascript" src="./bg_files/backbone.min.js"></script>
+<script type="text/javascript" src="./bg_files/front-end-deps.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nfi18n = {"ninjaForms":"Ninja Forms","changeEmailErrorMsg":"Please enter a valid email address!","changeDateErrorMsg":"Please enter a valid date!","confirmFieldErrorMsg":"These fields must match!","fieldNumberNumMinError":"Number Min Error","fieldNumberNumMaxError":"Number Max Error","fieldNumberIncrementBy":"Please increment by ","fieldTextareaRTEInsertLink":"Insert Link","fieldTextareaRTEInsertMedia":"Insert Media","fieldTextareaRTESelectAFile":"Select a file","formErrorsCorrectErrors":"Please correct errors before submitting this form.","validateRequiredField":"This is a required field.","honeypotHoneypotError":"Honeypot Error","fileUploadOldCodeFileUploadInProgress":"File Upload in Progress.","fileUploadOldCodeFileUpload":"FILE UPLOAD","currencySymbol":"","fieldsMarkedRequired":"Fields marked with an <span class=\"ninja-forms-req-symbol\">*<\/span> are required","thousands_sep":",","decimal_point":".","siteLocale":"en_US","dateFormat":"m\/d\/Y","startOfWeek":"1","of":"of","previousMonth":"Previous Month","nextMonth":"Next Month","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"weekdaysMin":["Su","Mo","Tu","We","Th","Fr","Sa"]};
+var nfFrontEnd = {"adminAjax":"http:\/\/pizzapeel.com\/wp-admin\/admin-ajax.php","ajaxNonce":"be0ae53780","requireBaseUrl":"http:\/\/pizzapeel.com\/wp-content\/plugins\/ninja-forms\/assets\/js\/","use_merge_tags":{"user":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"post":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"system":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"fields":{"address":"address","textbox":"textbox","button":"button","checkbox":"checkbox","city":"city","confirm":"confirm","date":"date","email":"email","firstname":"firstname","html":"html","hidden":"hidden","lastname":"lastname","listcheckbox":"listcheckbox","listcountry":"listcountry","listmultiselect":"listmultiselect","listradio":"listradio","listselect":"listselect","liststate":"liststate","note":"note","number":"number","password":"password","passwordconfirm":"passwordconfirm","product":"product","quantity":"quantity","recaptcha":"recaptcha","shipping":"shipping","spam":"spam","starrating":"starrating","submit":"submit","terms":"terms","textarea":"textarea","total":"total","unknown":"unknown","zip":"zip","hr":"hr"},"calculations":{"html":"html","hidden":"hidden","note":"note","unknown":"unknown"}},"opinionated_styles":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/front-end.js"></script>
+		<script type="text/javascript">
+				</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script><script id="tmpl-nf-layout" type="text/template">
+	<span id="nf-form-title-{{{ data.id }}}" class="nf-form-title">
+		{{{ ( 1 == data.settings.show_title ) ? '<h3>' + data.settings.title + '</h3>' : '' }}}
+	</span>
+	<div class="nf-form-wrap ninja-forms-form-wrap">
+		<div class="nf-response-msg"></div>
+		<div class="nf-debug-msg"></div>
+		<div class="nf-before-form"></div>
+		<div class="nf-form-layout"></div>
+		<div class="nf-after-form"></div>
+	</div>
+</script>
+
+<script id="tmpl-nf-empty" type="text/template">
+
+</script>
+<script id="tmpl-nf-before-form" type="text/template">
+	{{{ data.beforeForm }}}
+</script><script id="tmpl-nf-after-form" type="text/template">
+	{{{ data.afterForm }}}
+</script><script id="tmpl-nf-before-fields" type="text/template">
+    <div class="nf-form-fields-required">{{{ data.renderFieldsMarkedRequired() }}}</div>
+    {{{ data.beforeFields }}}
+</script><script id="tmpl-nf-after-fields" type="text/template">
+    {{{ data.afterFields }}}
+    <div id="nf-form-errors-{{{ data.id }}}" class="nf-form-errors" role="alert"></div>
+    <div class="nf-form-hp"></div>
+</script>
+<script id="tmpl-nf-before-field" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-after-field" type="text/template">
+    {{{ data.afterField }}}
+</script><script id="tmpl-nf-form-layout" type="text/template">
+	<form>
+		<div>
+			<div class="nf-before-form-content"></div>
+			<div class="nf-form-content {{{ data.element_class }}}"></div>
+			<div class="nf-after-form-content"></div>
+		</div>
+	</form>
+</script><script id="tmpl-nf-form-hp" type="text/template">
+	<label for="nf-field-hp-{{{ data.id }}}" aria-hidden="true">
+		{{{ nfi18n.formHoneypot }}}
+		<input id="nf-field-hp-{{{ data.id }}}" name="nf-field-hp" class="nf-element nf-field-hp" type="text" value=""/>
+	</label>
+</script>
+<script id="tmpl-nf-field-layout" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-container" class="nf-field-container {{{ data.type }}}-container {{{ data.renderContainerClass() }}}">
+        <div class="nf-before-field"></div>
+        <div class="nf-field"></div>
+        <div class="nf-after-field"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-before" type="text/template">
+    {{{ data.beforeField }}}
+</script><script id="tmpl-nf-field-after" type="text/template">
+    <#
+    /*
+     * Render our input limit section if that setting exists.
+     */
+    #>
+    <div class="nf-input-limit"></div>
+    <#
+    /*
+     * Render our error section if we have an error.
+     */
+    #>
+    <div id="nf-error-{{{ data.id }}}" class="nf-error-wrap nf-error" role="alert"></div>
+    <#
+    /*
+     * Render any custom HTML after our field.
+     */
+    #>
+    {{{ data.afterField }}}
+</script>
+<script id="tmpl-nf-field-wrap" type="text/template">
+	<div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+		<#
+		/*
+		 * This is our main field template. It's called for every field type.
+		 * Note that must have ONE top-level, wrapping element. i.e. a div/span/etc that wraps all of the template.
+		 */
+        #>
+		<#
+		/*
+		 * Render our label.
+		 */
+        #>
+		{{{ data.renderLabel() }}}
+		<#
+		/*
+		 * Render our field element. Uses the template for the field being rendered.
+		 */
+        #>
+		<div class="nf-field-element">{{{ data.renderElement() }}}</div>
+		<#
+		/*
+		 * Render our Description Text.
+		 */
+        #>
+		{{{ data.renderDescText() }}}
+	</div>
+</script>
+<script id="tmpl-nf-field-wrap-no-label" type="text/template">
+    <div id="nf-field-{{{ data.id }}}-wrap" class="{{{ data.renderWrapClass() }}}" data-field-id="{{{ data.id }}}">
+        <div class="nf-field-label"></div>
+        <div class="nf-field-element">{{{ data.renderElement() }}}</div>
+        <div class="nf-error-wrap"></div>
+    </div>
+</script>
+<script id="tmpl-nf-field-wrap-no-container" type="text/template">
+
+        {{{ data.renderElement() }}}
+
+        <div class="nf-error-wrap"></div>
+</script>
+<script id="tmpl-nf-field-label" type="text/template">
+	<div class="nf-field-label"><label for="nf-field-{{{ data.id }}}"
+	                                   id="nf-label-field-{{{ data.id }}}"
+	                                   class="{{{ data.renderLabelClasses() }}}">{{{ data.label }}} {{{ ( 'undefined' != typeof data.required && 1 == data.required ) ? '<span class="ninja-forms-req-symbol">*</span>' : '' }}} {{{ data.maybeRenderHelp() }}}</label></div>
+</script>
+<script id="tmpl-nf-field-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-form-error" type="text/template">
+	<div class="nf-error-msg nf-error-{{{ data.id }}}">{{{ data.msg }}}</div>
+</script><script id="tmpl-nf-field-input-limit" type="text/template">
+    {{{ data.currentCount() }}} {{{ nfi18n.of }}} {{{ data.input_limit }}} {{{ data.input_limit_msg }}}
+</script><script id="tmpl-nf-field-null" type="text/template">
+</script><script id="tmpl-nf-field-textbox" type="text/template">
+	<input
+			type="text"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+			{{{ data.maybeInputLimit() }}}
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocomplete && -1 < [ 'city', 'zip' ].indexOf( data.type ) ){ #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+				autocomplete="on"
+			<# } else { #>
+				name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+				{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-input" type="text/template">
+    <input id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" type="text" value="{{{ data.value }}}" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}}
+           aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+            {{{ data.maybeRequired() }}}
+    >
+</script>
+<script id="tmpl-nf-field-email" type="text/template">
+	<input
+			type="email"
+			value="{{{ data.value }}}"
+			class="{{{ data.renderClasses() }}} nf-element"
+
+			id="nf-field-{{{ data.id }}}"
+			<# if( ! data.disable_browser_autocompletes ){ #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id + '-' + data.type }}"
+			autocomplete="email"
+			<# } else { #>
+			name="{{ data.custom_name_attribute || 'nf-field-' + data.id }}"
+			{{{ data.maybeDisableAutocomplete() }}}
+			<# } #>
+			{{{ data.renderPlaceholder() }}}
+			{{{ data.maybeDisabled() }}}
+
+			aria-invalid="false"
+			aria-describedby="nf-error-{{{ data.id }}}"
+			aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+			{{{ data.maybeRequired() }}}
+	>
+</script>
+<script id="tmpl-nf-field-textarea" type="text/template">
+    <textarea id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" aria-invalid="false" aria-describedby="nf-error-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element" {{{ data.renderPlaceholder() }}} {{{ data.maybeDisabled() }}} {{{ data.maybeDisableAutocomplete() }}} {{{ data.maybeInputLimit() }}}
+        aria-labelledby="nf-label-field-{{{ data.id }}}"
+
+        {{{ data.maybeRequired() }}}
+    >{{{ data.value }}}</textarea>
+</script>
+
+<!-- Rich Text Editor Templates -->
+
+<script id="tmpl-nf-rte-media-button" type="text/template">
+    <span class="dashicons dashicons-admin-media"></span>
+</script>
+
+<script id="tmpl-nf-rte-link-button" type="text/template">
+    <span class="dashicons dashicons-admin-links"></span>
+</script>
+
+<script id="tmpl-nf-rte-unlink-button" type="text/template">
+    <span class="dashicons dashicons-editor-unlink"></span>
+</script>
+
+<script id="tmpl-nf-rte-link-dropdown" type="text/template">
+    <div class="summernote-link">
+        URL
+        <input type="url" class="widefat code link-url"> <br />
+        Text
+        <input type="url" class="widefat code link-text"> <br />
+        <label>
+            <input type="checkbox" class="link-new-window"> {{{ nfi18n.fieldsTextareaOpenNewWindow }}}
+        </label>
+        <input type="button" class="cancel-link extra" value="Cancel">
+        <input type="button" class="insert-link extra" value="Insert">
+    </div>
+</script>
+<script id="tmpl-nf-field-submit" type="text/template">
+	<input id="nf-field-{{{ data.id }}}" class="{{{ data.renderClasses() }}} nf-element " type="button" value="{{{ data.label }}}" {{{ ( data.disabled ) ? 'disabled' : '' }}}>
+</script><script id="tmpl-nf-field-button" type="text/template">
+    <button id="nf-field-{{{ data.id }}}" name="nf-field-{{{ data.id }}}" class="{{{ data.classes }}} nf-element">
+        {{{ data.label }}}
+    </button>
+</script>        <script>
+            var post_max_size = '8';
+            var upload_max_filesize = '64';
+            var wp_memory_limit = '64';
+        </script>
+        <style id="mk-shortcode-dynamic-styles" type="text/css">#text-block-2 { margin-bottom:0px; text-align:left; } #text-block-3 { margin-bottom:0px; text-align:left; } #text-block-4 { margin-bottom:0px; text-align:left; } #text-block-5 { margin-bottom:0px; text-align:left; } #text-block-6 { margin-bottom:0px; text-align:left; } #text-block-7 { margin-bottom:0px; text-align:left; }</style>    <script>
+        !function(e){var a=window.location,n=a.hash;if(n.length&&n.substring(1).length){var r=e(".vc_row, .mk-main-wrapper-holder, .mk-page-section, #comments"),t=r.filter("#"+n.substring(1));if(!t.length)return;n=n.replace("!loading","");var i=n+"!loading";a.hash=i}}(jQuery);
+    </script>
+
+      
+
+<div style="position: absolute; z-index: -10000; top: 0px; left: 0px; right: 0px; height: 2463px;"></div><div style="clear: both;"></div></body></html>
