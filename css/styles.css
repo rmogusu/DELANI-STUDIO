@@ -3,53 +3,29 @@ body {
   overflow-x: hidden;
 }
 
-.container-full {
-  background-image: url('../image/background/first.jpg');
-  background-size: cover;
+#logo {
+padding-top:200px;
 }
 
-#logo {
-  margin-left: 600px;
-  padding-top: 100px;
-  padding-bottom:45px;
+#mouse {
+padding-top:100px;
 }
 #text{
   color:white;
 }
-
-#header1 {
-  text-align: center;
-  color: white;
-  padding-bottom:20px;
-}
-
-#header2 {
-  text-align: center;
-  color: white;
-  display: block;
-}
-
-#paragraph {
-  text-align: center;
-  color: white;
-  padding-bottom: 150px;
-}
-
-#mouse {
-  margin-left: 620px;
-  padding-bottom: 20px;
-}
-
 .About-Us {
   text-align: center;
   color: Black;
-  padding-bottom: 70px;
-  padding-top: 70px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+#info{
+  color:white;
 }
 
-.services {
-  background-image: url('../image/background/second.jpg');
-  background-size: cover;
+#icons{
+  margin-top:50px;
+  margin-bottom: 30px;
 }
 
 .info {
@@ -79,26 +55,32 @@ body {
   display: none;
 }
 
-#info4 p{
+ #info4 p{
   font-size:17px;
 }
-.info1 {
+/* .info1 {
   padding-bottom: 70px;
   padding-top: 70px;
+} */
+
+.myportfolio {
+  text-align: center;
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
-#myportfolio {
-  text-align: center;
-}
-.text:hover{
-  text-align:center;
-}
 .contact-us {
   background-image: url('../image/contacts/contact.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
-  height: 500px;
+  /* width: 100%;
+  height: 500px; */
+}
+
+.contact-us{
+  text-align:center;
+  color:white;
+  padding-top:30px;
 }
 .contact-us h1{
   padding-top:20px;
@@ -133,9 +115,11 @@ input::placeholder{
 }
 .footer{
   text-align:center;
-
 }
-
+#transparency{
+  margin-bottom:50px;
+}
+/*
 .text1 {
     width: 295px;
     height: 240px;
@@ -226,4 +210,4 @@ input::placeholder{
     position: absolute;
     top: 1em;
     display:none;
-}
+} */
