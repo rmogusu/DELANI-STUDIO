@@ -244,7 +244,7 @@
 
 
 
-  <!-- <div class="contact-us">
+   <!-- <div class="contact-us">
     <div class="contact">
       <h1 class="text-white">CONTACT US</h1>
     </div>
@@ -268,26 +268,26 @@
         </div>
     </form>
   </div>
-  </div> -->
+  </div> --> 
 
   <div class="contact-us">
-    <form class="forms" action="#!">
+    <form class="forms" name="form1"onsubmit="return contact()"action="#!">
       <p class="h4 mb-4">Contact Us</p>
       <div class="form-row mb-4">
         <div class="col-md-2">
         </div>
         <div class="col-md-4">
-          <input type="text" id="defaultRegisterFormFirstName" class="form-control" placeholder="Full Names.." required>
+          <input type="text" id="defaultRegisterFormFullNames" name="yourname"class="form-control" placeholder="Full Names.." required>
         </div>
         <div class="col-md-4">
-          <input type="text" id="defaultRegisterFormLastName" class="form-control" placeholder="Email.." required>
+          <input type="text" id="defaultRegisterEmail" name="youremail" class="form-control" placeholder="Email.." required>
         </div>
         <div class="col-md-2">
         </div>
       </div>
       <div class="row inputs2">
         <div class="col-md-2"></div>
-        <textarea type="text" class="col-md-8 form-control" rows="8" placeholder="Your message here..." name="message"></textarea>
+        <textarea type="text" class="col-md-8 form-control"name="message" rows="8" placeholder="Your message here..." name="message"></textarea>
         <div class="col-md-2"></div>
       </div>
       <div class="row">
