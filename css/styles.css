@@ -3,211 +3,129 @@ body {
   overflow-x: hidden;
 }
 
+.container-full {
+  background-image: url("../image/background/first.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 #logo {
-padding-top:200px;
+  padding-top: 220px;
 }
 
 #mouse {
-padding-top:100px;
+  padding-top: 100px;
 }
-#text{
-  color:white;
+
+#bounce {
+  animation: bounce 3s infinite;
 }
+
 .About-Us {
   text-align: center;
   color: Black;
   padding-bottom: 50px;
   padding-top: 50px;
 }
-#info{
-  color:white;
+
+.services {
+  background-image: url("../image/background/second.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-#icons{
-  margin-top:50px;
-  margin-bottom: 30px;
+#icons {
+  margin-top: 30px;
 }
 
 .info {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#description {
   text-align: center;
-  color: white;
-  padding-bottom: 70px;
-  padding-top: 70px;
+  margin-bottom: 50px;
+  padding-top: 50px;
 }
 
-#description{
-  text-align:center;
-  margin-bottom:50px;
-  padding-top:50px;
-}
-.contact{
-  text-align:center;
-
-}
+/* .contact {
+  text-align: center;
+} */
 
 #info3 {
   display: none;
 }
-#info4{
+
+#info4 {
   display: none;
 }
+
 #info5 {
   display: none;
 }
 
- #info4 p{
-  font-size:17px;
+#info4 p {
+  font-size: 17px;
 }
-/* .info1 {
-  padding-bottom: 70px;
-  padding-top: 70px;
-} */
+
 
 .myportfolio {
   text-align: center;
-  padding-top:20px;
-  padding-bottom:20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .contact-us {
   background-image: url('../image/contacts/contact.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  /* width: 100%;
-  height: 500px; */
 }
 
-.contact-us{
-  text-align:center;
-  color:white;
-  padding-top:30px;
-}
-.contact-us h1{
-  padding-top:20px;
+.contact-us {
+  text-align: center;
+  color: white;
+  padding-top: 30px;
 }
 
-.form-inline {
+/* .contact-us h1 {
+  padding-top: 20px;
+} */
+
+/* .form-inline {
   text-align: center;
   align-content: center;
   display: flex;
   justify-content: center;
-}
-.social-ico {
-margin-top:40px;
-}
-
-.inputs{
-  margin-bottom:25px;
-  display:flex;
-}
-.inputs2{
-  margin-bottom:25px;
-}
-.form-control{
-  background-color:#66000000;
-}
-input::placeholder{
-  color:#ffffff;
-
-}
-.first{
-  margin:0 4px 0 0;
-}
-.footer{
-  text-align:center;
-}
-#transparency{
-  margin-bottom:50px;
-}
-/*
-.text1 {
-    width: 295px;
-    height: 240px;
-    background-color: #ffffff;
-    border-radius:10%;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text2 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text3 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text4{
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text5 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text6 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text{
-  margin-top: 110px;
-}
-.text7 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
-}
-.text8 {
-  width: 295px;
-  height: 240px;
-    background-color: #ffffff;
-    border-radius: 15px;
-    z-index: 1;
-    opacity: 0.5;
-    position: absolute;
-    top: 1em;
-    display:none;
 } */
+
+/* .inputs {
+  margin-bottom: 25px;
+  display: flex;
+}
+
+.inputs2 {
+  margin-bottom: 25px;
+} */
+
+.form-control {
+  background-color: #66000000;
+}
+
+input::placeholder {
+  color: #ffffff;
+}
+
+/* .first {
+  margin: 0 4px 0 0;
+} */
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#transparency {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
