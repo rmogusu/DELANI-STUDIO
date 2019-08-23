@@ -1,19 +1,19 @@
 $(document).ready(function() {
   $(".design1").click(function() {
-  $("#clickable").fadeOut(20000);
-  $("#info3").show(20000);
-});
-$(".design2").click(function() {
-  $("#clickable").fadeIn(20000);
-  $("#info3").hide(20000);
-});
+    $("#clickable").fadeOut(20000);
+    $("#info3").show(20000);
+  });
+  $(".design2").click(function() {
+    $("#clickable").fadeIn(20000);
+    $("#info3").hide(20000);
+  });
 
-$(".dev").click(function() {
+  $(".dev").click(function() {
     $("#clickable1").slideToggle(2000);
     $("#info4").slideToggle(2000);
   });
 
-$(".mgnt").click(function() {
+  $(".mgnt").click(function() {
     $("#clickable2").slideToggle(2000);
     $("#info5").slideToggle(2000);
   });
@@ -26,3 +26,11 @@ function contact(form){
             var message = document.forms["form1"]["message"].value;
             alert("Hello " + name + "," + "  Thank you for reaching out to us.feel free anytime. ");
           };
+          // $(document).ready(function(event){
+          //     $(".forms").submit(function(){
+          //         var name=$("input#name").val();
+          //         alert("Hello " + name + ", we have received your message. Thank you for reaching out to us.");
+          //         event.preventDefault();
+          //         $(this).get(0).reset();
+          //     });
+          // })
